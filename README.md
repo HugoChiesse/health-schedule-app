@@ -1,8 +1,8 @@
-## Health Schedule 
+### Health Schedule 
 
 Sistema de agendamento de marcação de consulta desenvolvido em PHP Laravel integrando com a API Feegow 
 
-## Como Configurar 
+### Como Configurar 
 
 1. Baixe as dependências do código.
 
@@ -23,7 +23,7 @@ Sistema de agendamento de marcação de consulta desenvolvido em PHP Laravel int
   - DB_PASSWORD="INFORME A SUA SENHA DO BANCO DE DADOS"
 ```
 
-## Como Usar 
+### Como Usar 
 
 1. Na tela inicial, clique no campo Selecione a especialidade para visualizar a lista completa
  
@@ -31,5 +31,6 @@ Sistema de agendamento de marcação de consulta desenvolvido em PHP Laravel int
  
 3. Feita a escolha do profissional, em seguida, poderá preencher os seus dados (nome, onde nos conheceu, aniversário e cpf) no formulário de marcação e clicar em Solicitar Horário. 
  
-4. Ao salvar, aparecerá uma mensagem de confirmação e poderá fazer novas marcações. 
+4. Ao salvar, aparecerá uma mensagem de confirmação e poderá fazer novas marcações.
+
  
