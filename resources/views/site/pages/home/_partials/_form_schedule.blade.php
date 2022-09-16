@@ -1,6 +1,8 @@
 <fieldset class="scheduler-border">
     <legend class="scheduler-border">Preencha os seus dados</legend>
 
+    @csrf
+
     <div class="row">
 
         <input type="hidden" name="specialty_id" id="specialty_id" value="{{ $specialty_id }}">
